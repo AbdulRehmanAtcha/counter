@@ -35,10 +35,8 @@ body{
 .toggle{
   background-color: lightgrey;
   border-radius: 10px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  width: 83px;
+
+  width: 40px;
   margin-right: 20px;
   cursor: pointer;
   border: 1px solid rebeccapurple;
@@ -49,6 +47,11 @@ body{
   border: none;
   margin-right: 20px;
   cursor: pointer; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 39px;
+  height: 34px;
 }
 .main-box{
   height: 70vh;
